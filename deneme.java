@@ -1,5 +1,8 @@
 public class deneme {
     // how are you World ?
 
-    // yo , r u around 
+    // yo , r u ?
+
+    // geldim , gidiyorum
+    
 }
